@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashwary682/LeetCode-Questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ashwary682/LeetCode-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ashwary682/LeetCode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/ashwary682/LeetCode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ashwary682/LeetCode-Questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/ashwary682/LeetCode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
