@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ashwary682/LeetCode-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ashwary682/LeetCode-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ashwary682/LeetCode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashwary682/LeetCode-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ashwary682/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashwary682/LeetCode-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ashwary682/LeetCode-Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/ashwary682/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ashwary682/LeetCode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashwary682/LeetCode-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashwary682/LeetCode-Questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashwary682/LeetCode-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
