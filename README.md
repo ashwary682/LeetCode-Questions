@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ashwary682/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashwary682/LeetCode-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/ashwary682/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/ashwary682/LeetCode-Questions/tree/main/0704-binary-search/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ashwary682/LeetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashwary682/LeetCode-Questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/ashwary682/LeetCode-Questions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
