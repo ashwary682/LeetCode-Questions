@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ashwary682/LeetCode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/ashwary682/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/ashwary682/LeetCode-Questions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ashwary682/LeetCode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/ashwary682/LeetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ashwary682/LeetCode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/ashwary682/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ashwary682/LeetCode-Questions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/ashwary682/LeetCode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
