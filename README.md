@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashwary682/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashwary682/LeetCode-Questions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ashwary682/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ashwary682/LeetCode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ashwary682/LeetCode-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/ashwary682/LeetCode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/ashwary682/LeetCode-Questions/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashwary682/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ashwary682/LeetCode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ashwary682/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ashwary682/LeetCode-Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/ashwary682/LeetCode-Questions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/ashwary682/LeetCode-Questions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ashwary682/LeetCode-Questions/tree/main/0704-binary-search/) | Easy |
