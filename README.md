@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashwary682/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/ashwary682/LeetCode-Questions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ashwary682/LeetCode-Questions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashwary682/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/ashwary682/LeetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashwary682/LeetCode-Questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/ashwary682/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/ashwary682/LeetCode-Questions/tree/main/0836-rectangle-overlap/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashwary682/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
