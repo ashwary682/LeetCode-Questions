@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashwary682/LeetCode-Questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/ashwary682/LeetCode-Questions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/ashwary682/LeetCode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ashwary682/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ashwary682/LeetCode-Questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ashwary682/LeetCode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ashwary682/LeetCode-Questions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashwary682/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ashwary682/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashwary682/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/ashwary682/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ashwary682/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ashwary682/LeetCode-Questions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Divide and Conquer
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashwary682/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ashwary682/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ashwary682/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashwary682/LeetCode-Questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashwary682/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ashwary682/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashwary682/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
